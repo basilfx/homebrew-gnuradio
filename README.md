@@ -78,7 +78,7 @@ These steps have been tested on Mountain Lion 10.8.4 with Xcode 4.6.3. It is pro
 - Install HackRF & RTL-SDR related blocks
 
   ```sh
-  brew install rtlsdr gr-osmosdr gr-baz --HEAD
+  brew install librtlsdr gr-osmosdr gr-baz --HEAD
   ```
 - If you want a graphic interface to play with your HackRF, GQRX is great
   To install it:
