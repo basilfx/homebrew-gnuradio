@@ -9,6 +9,7 @@ via default repository, together with librtlsdr.
 * gr-fosphor
 * gr-op25
 * gr-osmosdr
+* gr-tpms (WIP)
 
 In addition:
 
