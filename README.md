@@ -15,5 +15,6 @@ In addition:
 
 * gqrx
 * dump1090
+* rtl-entropy (WIP)
 
 Most formulas are HEAD-only.
